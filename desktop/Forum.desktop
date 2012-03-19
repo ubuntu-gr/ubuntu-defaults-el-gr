@@ -1,0 +1,9 @@
+[Desktop Entry]
+# Example .desktop file for a web launcher
+Version=1.0
+Name=Ελληνικό Ubuntu Forum
+Comment=http://forum.ubuntu-gr.org
+Exec=/usr/bin/xdg-open http://forum.ubuntu-gr.org
+Type=Application
+Icon=applications-mail
+Categories=GNOME;GTK;Application;

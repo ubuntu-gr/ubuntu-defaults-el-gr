@@ -1,0 +1,18 @@
+Source: ubuntu-defaults-el-gr
+Section: metapackages
+Priority: optional
+Maintainer: Pantelis Koukousoulas <pktoss@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~),
+ ubuntu-defaults-builder
+Standards-Version: 3.9.3
+
+Package: ubuntu-defaults-el-gr
+Architecture: all
+Depends: ${misc:Depends},
+ ${ubuntudefaults:Depends}
+Recommends: ${ubuntudefaults:Recommends}
+Provides: ubuntu-default-settings
+Conflicts: ubuntu-default-settings
+Description: Default settings for Ubuntu customizations
+ This package contains customized default settings.
+
