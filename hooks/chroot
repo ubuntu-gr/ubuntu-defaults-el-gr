@@ -6,3 +6,7 @@ set -e
 # This script is run in the built chroot after all packages are installed,
 # before it is packed into a squashfs. This is where you can apply extra tweaks
 # to the live system.
+
+# This seems to be the "proper" way to pre-configure the timezone
+echo "Europe/Athens" > /etc/timezone
+dpkg-reconfigure -f noninteractive tzdata
