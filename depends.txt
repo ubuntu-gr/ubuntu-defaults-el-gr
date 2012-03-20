@@ -14,3 +14,4 @@
 #
 # Example:
 # manpages-de
+fonts-mgopen
