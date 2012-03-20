@@ -7,3 +7,6 @@
 # Example:
 # http://www.ubuntu.de	Deutsches Ubuntu-Forum
 # http://www.heise.de	heise Computer-Nachrichten
+https://forum.ubuntu-gr.org/ Ελληνικό Forum Ubuntu
+http://ubuntu-gr.org/        Ελλην. Κοινότητα Ubuntu
+http://planet.ubuntu-gr.org/ Ιστολόγια Ελλήνων Ubuntistas
