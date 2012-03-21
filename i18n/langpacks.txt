@@ -14,5 +14,9 @@
 # de complete
 # es
 # zh-hans
-en
+#
+# NB: The list needs to be sorted!!! (A->Z)
+# --pkt
+#
 el complete
+en
