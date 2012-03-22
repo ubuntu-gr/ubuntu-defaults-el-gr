@@ -5,7 +5,7 @@ A package to provide defaults for a localized Greek version of Ubuntu
 LiveCD. 
 
 Read more on how to configure the settings at
-https://wiki.edubuntu.org/DesktopTeam/Specs/Oneiric/LocalizedCDImageTools
+https://wiki.ubuntu.com/DesktopTeam/Specs/Oneiric/LocalizedCDImageTools
 
 Πακέτο προσαρμογής του Ubuntu στην ελληνική γλώσσα
 ==================================================
@@ -14,4 +14,4 @@ https://wiki.edubuntu.org/DesktopTeam/Specs/Oneiric/LocalizedCDImageTools
 Ubuntu από Έλληνες / Ελληνικό LiveCD μέσω του ubuntu-defaults-image.
 
 Δείτε περισσότερες πληροφορίες για τις ρυθμίσεις στο
-https://wiki.edubuntu.org/DesktopTeam/Specs/Oneiric/LocalizedCDImageTools
+https://wiki.ubuntu.com/DesktopTeam/Specs/Oneiric/LocalizedCDImageTools
