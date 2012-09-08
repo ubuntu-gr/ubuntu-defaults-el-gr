@@ -18,5 +18,5 @@
 # NB: The list needs to be sorted!!! (A->Z)
 # --pkt
 #
-el complete
+el
 en
