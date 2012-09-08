@@ -1,3 +1,10 @@
+ubuntu-defaults-el-gr (0.2) precise; urgency=low
+
+  * Add link to documentation (Simos Xenitellis)
+  * Fix bug in langpacks.txt (Pantelis Koukousoulas) 
+
+ -- Pantelis Koukousoulas <pktoss@gmail.com>  Sat, 08 Sep 2012 14:03:15 +0000
+
 ubuntu-defaults-el-gr (0.1) precise; urgency=low
 
   * Initial release.
