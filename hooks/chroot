@@ -10,3 +10,10 @@ set -e
 # This seems to be the "proper" way to pre-configure the timezone
 echo "Europe/Athens" > /etc/timezone
 dpkg-reconfigure -f noninteractive tzdata
+
+# Fix the keyboard layout for new users (LP: #975803)
+echo "-layout us,gr -option grp:alt_shift_toggle,grp_led:scroll" \
+     > /etc/X11/Xkbmap
+
+# Prevent ubiquity-dm from showing and messing up with the keyboard layout
+chmod -x /usr/bin/ubiquity-dm

@@ -1,3 +1,10 @@
+ubuntu-defaults-el-gr (0.2.1) precise; urgency=low
+
+  * Workaround current problems with Greek keyboard layout (thanks to
+    Alkis Georgopoulos for suggesting the workarounds)
+
+ -- Pantelis Koukousoulas <pktoss@gmail.com>  Tue, 02 Oct 2012 10:43:49 +0300
+
 ubuntu-defaults-el-gr (0.2) precise; urgency=low
 
   * Add link to documentation (Simos Xenitellis)
